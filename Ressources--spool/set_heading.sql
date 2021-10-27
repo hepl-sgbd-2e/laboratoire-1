@@ -1,0 +1,3 @@
+SET HEADING OFF;
+
+SELECT * FROM employes;

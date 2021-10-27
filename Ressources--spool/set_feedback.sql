@@ -1,0 +1,3 @@
+SET FEEDBACK OFF
+
+SELECT * FROM employes;
